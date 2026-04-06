@@ -1,22 +1,43 @@
-# Hello, World! I'm Saptrishi 👋
+# Hello, World! I'm Saptrishi 👋 (v2.1 Patch Notes Applied)
 
 ## 🚀 About Me
-I'm an aspiring Full-Stack Developer, currently immersing myself in the world of JavaScript. 🌟
+Previously: *Aspiring Full-Stack Developer*  
+Currently: *Re-evaluating life choices after seeing AI build websites in 30 seconds*
 
-- 🔭 I’m on a journey to master JavaScript, exploring its versatility in web development.
-- 🌱 Eagerly learning JavaScript to build dynamic and interactive web applications.
-- 👯 I’m looking to collaborate on beginner-friendly JavaScript projects to learn and contribute.
-- 🤔 Seeking guidance and tips from experienced JavaScript developers.
-- 💬 Feel free to ask me about my JavaScript learning experiences and the challenges I face.
-- 📫 How to reach me: Drop me an email at hi@breamymonk.xyz for discussions about JavaScript, coding, and technology.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I believe JavaScript is like the Swiss Army knife of the web - versatile and essential!
+Welcome to my evolving tech journey — now with **more confusion, better decisions (hopefully), and fewer frontend headaches**.
 
-## 🛠 Skills
-- JavaScript Novice (actively learning)
-- Aspiring Full-Stack Developer (interested in the MERN stack)
-- Git & GitHub Enthusiast
+- 🔭 Started with dreams of mastering full-stack development…
+- 🤖 Then watched AI casually generate entire web apps…
+- 🔄 Currently pivoting towards **Data Engineering / Backend-ish things that feel more “future-proof”**
+- 🌱 Learning whatever seems useful and hard enough that AI hasn’t fully replaced it (yet)
+- 👯 Open to collaborating on beginner-friendly projects (as long as we’re both equally confused)
+- 🤔 Constantly questioning: *“Am I learning the right thing?”*
+- 💬 Ask me about:
+  - JavaScript struggles
+  - Switching tech paths mid-journey
+  - Debugging things that magically fix themselves
+- 📫 Reach me at: **hi@breamymonk.xyz**
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: When I don’t know something, I ask AI… and then pretend I knew it all along.
 
+---
 
-Embarking on a journey through the realms of code, one JavaScript line at a time. ☕👨‍💻
+## 🛠 Skills (Under Construction 🚧)
 
+- JavaScript (Survived the basics… barely)
+- Exploring Data Engineering (trying to understand what’s going on)
+- Git & GitHub (professional commit message writer: “fix stuff”)
+- Googling errors like a pro
+- Reading docs… then searching YouTube anyway
+
+---
+
+## 🧠 Current Status
+
+```bash
+while(alive) {
+   learn();
+   doubt();
+   debug();
+   repeat();
+}
