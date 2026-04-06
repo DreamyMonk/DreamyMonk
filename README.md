@@ -1,4 +1,4 @@
-# Hello, World! I'm Saptrishi 👋 (v2.1 Patch Notes Applied)
+# Hello, World! I'm Saptrishi 👋 (v2.0 Patch Notes Applied)
 
 ## 🚀 About Me
 Previously: *Aspiring Full-Stack Developer*  
