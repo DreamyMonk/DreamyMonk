@@ -27,8 +27,8 @@ Welcome to my evolving tech journey — now with **more confusion, better decisi
 - JavaScript (Survived the basics… barely)
 - Exploring Data Engineering (trying to understand what’s going on)
 - Git & GitHub (professional commit message writer: “fix stuff”)
-- Googling errors like a pro
-- Reading docs… then searching YouTube anyway
+- Chatgpting errors like a pro
+- Reading docs… then searching chatgpt anyway
 
 ---
 
