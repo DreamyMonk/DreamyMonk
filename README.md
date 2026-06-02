@@ -16,7 +16,7 @@ Welcome to my evolving tech journey — now with **more confusion, better decisi
   - JavaScript struggles
   - Switching tech paths mid-journey
   - Debugging things that magically fix themselves
-- 📫 Reach me at: **hi@breamymonk.xyz**
+- 📫 Reach me at: **hi@dreamymonk.xyz**
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: When I don’t know something, I ask AI… and then pretend I knew it all along.
 
